@@ -105,3 +105,10 @@ dist
 
 # Configuración de Visual Studio Code
 .vscode
+
+#curso-practico-javascrip
+## Taller #1: figuras geometricas
+- 1er paso: Definir las formulas
+- 2do: implementar las formulas en JS
+- 3er: crear funciones
+- 4to: integrar JS con HTML  
